@@ -1,0 +1,9 @@
+{
+  "name": "NugaCorp Wireless Hub",
+  "description": "A high-performance WISP (Wireless ISP) management platform for NugaCorp, featuring real-time MikroTik network monitoring, AI-driven support, gamified client portal, and advanced financial reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
